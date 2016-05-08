@@ -1,142 +1,29 @@
-[
-  {
-    "tibetan": "ཀ་",
-    "english": '  I. <consonant letter> The first of the གསལ་བྱེད་སུམ་ཅུ thirty consonants of the Tibetan language.  1) The enunciation of the consonant is defined as having: སྐྱེ་གནས place of production = the throat; བྱེད་པ producer = the throat; ནང་གི་རྩོལ་བ inner effort = inner connection of the throat; and ཕྱིའི་རྩོལ་བ outer effort = unaspirated and un-sounded.  2) i) When used as a མིང་གཞི name-base, the consonant is defined as a ཕོ་ཡིག "male letter" q.v.    ii) Due to that definition, when a མིང་མཐའ name-ending (i.e., a single-letter ending which is added to another word and becomes part of it) is required, of the three possible choices ka, ཁ, and ག, the letter ka is the one that must be used where a male letter ending is required.  A good example is the word gnyis; the ending letter is male so gnyis ka is correct not gnyis kha or gnyis ga.  However, the old form of the word gnyi, since it has a female 'a ending on it (it is invisible but there by the rules of grammar), gets a female name ending and becomes gnyi ga not gnyis ka or gnyis kha.  II. <ཚིག་ཕྲད phrase connector> Placed following other words to indicate i) the whole set that the word represents, everything associated with that word, e.g., 'di de gnyis means "the two things, this and that" whereas 'di de gnyis ka means "the two things, this and that, taken together as a whole".  In this usage it is used to form new noun-words, e.g., dpyid ka and stong ka are the words for spring and autumn respectively.  They are formed by taking the word that describes a period of time ("pleasant" and "going-empty" respectively) and then adding the connector ka to connote that period taken as a whole and hence, spring and autumn.  ii) It also commonly used to create a new noun that indicates that very thing, the culmination of something, e.g., འགྲོངས་ཀ the culmination of the death process which is the actual moment of death itself.  The word is created by adding connector ka to the verb for dying, 'grongs.  III. <noun> 1) Meaning the first, the earliest, the primordial one.  This usage is like the usage of the first letter of the alphabet in English, a, to indicate the first one, the first of a series, and the one at the beginning point.  Just as the Greek letter alpha is placed for this usage in English, so it is suggested that, in some circumstances alpha will be a good way to translate this usage of ka.  For example, in རྫོགས་པ་ཆེན་པོ Great Completion the term ཀ་དག Alpha Purity is a crucial term.  It means the purity (dag) which was there first, before anything else, so it is alpha-purity.  2) Used as an indicator of sequence number, like the English system of A, B, C, for marking volumes of books etcetera in which case it is the "1st".'
-},
 {
-    "tibetan": "ཀ་ཀ་",
-    "english": '<noun> 1) Corrupted form of ཀའ་ཀ q.v.  2) The ཨ་ཅུག of a sheep q.v.  3) [Dialect] The clothing of a young child.  4) Slang term for སྐྱག་པ faeces.'
-},
-{
-    "tibetan": "ཀ་ཀ་ཎི་ལ་",
-    "english": 'Mis-spelling of ཀ་ཀ་ནའི་ལ q.v.'
-  },
-  {
-    "tibetan": "བསྐུལ་",
-    "english": '<verb> See བསྐུལ་བ q.v.'
-
-  {},
-    "tibetan": "བསྐུལ་བ་",
-    "english": '  I. <verb> Past and fut. of སྐུལ་བ q.v.  II. <noun> 1) Abbrev. of bskul ba po, meaning the agent that does the action of the verb སྐུལ་བ q.v.  Note that the complement (the thing used by the agent to do the action) is the བསྐུལ་མ q.v.  This term will be translated in different ways according to the action being done.  See the verb སྐུལ་བ for more.  2) A general term for anything done to make something or someone do something.  Tibetan usage corresponds to several English nouns, so it must be translated on context.  i) "Urging".  Translation of the Sanskrit [NDS] "adhye haā".  Specifically, the name of the fifth of the ཡན་ལག་བདུན seven branches of worship q.v.  It means to urge the enlightened beings to turn the wheel of dharma.  ii) "Insistence"; e.g., "I wrote this text at the insistence of my disciple".  iii) "Exhortation"; e.g., the master's exhortation to the monks was that they should practice.  iv) "Incitement", "excitement" when used in the sense of inciting something or exciting something into action.  E.g., "the coloured light from the practitioner's heart wound around the dharani thread, inciting the vase deities to release nectar".'
-},
-{
-    "tibetan": "བསྐུལ་བ་ཕྲིན་ལས་ཀྱི་སྔགས་",
-    "english": '<noun>phrase> "The evocation action mantra" of a deity.  See སྔགས་བཞི "the four mantras".'
-  },
-  {
-    "tibetan": "བསྐུལ་མ་",
-    "english": '<noun> The name given to complement of the verb སྐུལ་བ.  Hence, "encouragement", "exhortation", "urging", "instigation", "admonishment".  It has sometimes been translated as "request" but that is a little weak and renders other Tibetan terms such as ཞུ་བ better.  This term has the sense of energy added in order to get someone to do something, such as to carry out a request.  E.g., in the yan lag bdun pa "seven-limbed practice" popular in Tibetan Buddhism, the sixth limb is skul ba "urging".  It is the section in which the Buddhas are not merely requested to turn the wheel of dharma but are urged to do so.Note that, grammatically speaking, this can be and is also written as བསྐུལ་བ q.v.'
-  },
-  {
-    "tibetan": "བསྐུས་",
-    "english": '<verb> See བསྐུས་པ q.v.'
-  },
-  {
-    "tibetan": "བསྐུས་པ་",
-    "english": '  I. <verb> Past of སྐུད་པ [TC].  II. <noun> Something applied by སྐུད་པ rubbing etc., hence "ointment", "topical application", "unguent", etc.'
-  },
-  {
-    "tibetan": "བསྐོ་བ་",
-    "english": '<verb> Fut. of སྐོ་བ [TC].'
-  },
-  {
-    "tibetan": "བསྐོང་བ་",
-    "english": '<verb> Fut. of v.t. སྐོང་བ q.v.'
-  },
-  {
-    "tibetan": "བསྐོངས་པ་",
-    "english": '<verb> Past of v.t. form II སྐོང་བ q.v.'
-  },
-  {
-    "tibetan": "བསྐོན་པ་",
-    "english": '<verb> Past and fut. of སྐོན་པ q.v.'
-  },
-  {
-    "tibetan": "བསྐོར་",
-    "english": '<verb> See བསྐོར་བ q.v.'
-  },
-  {
-    "tibetan": "བསྐོར་བ་",
-    "english": '<verb> Past and fut. of སྐོར་བ q.v.'
-  },
-  {
-    "tibetan": "བསྐོལ་",
-    "english": '<verb> See བསྐོལ་བ q.v.'
-  },
-  {
-    "tibetan": "བསྐོལ་བ་",
-    "english": '  I. <verb> Past and fut. of སྐོལ་བ q.v.  II. <adj> Same as བསྐོལ་མ q.v.  E.g., chu bskol ba could be the same as chu bskol ma "boiled water".'
-  },
-  {
-    "tibetan": "བསྐོལ་མ་",
-    "english": '<noun> The name given to boiled liquids, i.e., liquids that have been boiled to make them what they are.  E.g., as in chu bskol ma "boiled water", 'o ma bskol ma "boiled milk".  This is different from khol ma which means "boiling hot liquids".'
-  },
-  {
-    "tibetan": "བསྐོས་",
-    "english": '<verb> See བསྐོས་པ q.v.'
-  },
-  {
-    "tibetan": "བསྐོས་པ་",
-    "english": '<verb> Past of སྐོ་བ q.v.'
-  },
-  {
-    "tibetan": "བསྐྱ་བ་",
-    "english": '<verb> Fut. of སྐྱ་བ q.v.'
-
-  {},
-    "tibetan": "ཁ་སྦྱོར་ཡན་ལག་བདུན་",
-    "english": '"The seven aspects of union".  The ལོངས་སྤྱོད་རྫོགས་པའི་སྐུ sa bhogakāya form of a buddha is explained to have the nature of union in general and to have the nature of ཁ་སྦྱོར་ཡན་ལག་བདུན་ལདན seven aspects of union all together.  The seven aspects are: 1) ལོངས་སྤྱོད་རྫོགས་པ "complete resources"; 2) ཁ་སྦྱོར "union"; 3) བདེ་བ་ཆེན་པོ "great bliss"; 4) རང་བཞིན་མེད་པ "no self-nature"; 5) སྙིང་རྗེས་ཡོངས་སུ་གང་བ "totally filled with compassion"; 6) རྒྱུན་མི་ཆད་པ "uninterrupted"; 7) འགོག་པ་མེད་པ "without stoppage".With the same meaning, [DGT] gives as: 1) longs skyod rdzogs pa'i yan lag; 2) kha sbyor gyi yan lag; 3) bde ba chen po'i yan lag; 4) rang bzhin med pa'i yan lag; 5) snying rjes yongs su gang ba'i yan lag; 6) rgyun mi 'chad pa'i yan lag; and 7) 'gog pa med pa'i yan lag.'
-},
-{
-    "tibetan": "ཁ་སྦྱོར་ཡན་ལག་བདུན་དང་ལདན་པ་",
-    "english": 'See the usual abbrev. ཁ་སྦྱོར་ཡན་ལག་བདུན་ལདན q.v.'
-  },
-  {
-    "tibetan": "ཁ་སྦྱོར་ཡན་ལག་བདུན་ལདན་",
-    "english": '<noun>phrase> "Having the seven aspects of union".  When the nature of the ལོངས་སྤྱོད་རྫོགས་པའི་སྐུ sa bhogakāya form of a buddha is explained, it is said to be that which has the ཁ་སྦྱོར་ཡན་ལག་བདུན seven aspects of union q.v.'
-  },
-  {
-    "tibetan": "ཁ་སྦྱོར་ཡན་ལག་བདུན་ལདན་གྱི་གོ་འཕང་",
-    "english": '<noun>phrase> "The state / level of having the seven aspects of union".  A phrase meaning the state or level of a sa bhogakāya; see ཁ་སྦྱོར་ཡན་ལག་བདུན་ལདན "having the seven aspects of union" q.v.One translator has said "buddhahood having the seven features of father and mother facing one another" but that is totally mistaken understanding of ཁ་སྦྱོར "union" q.v.'
-  },
-  {
-    "tibetan": "དགུ་བརྒྱ་",
-    "english": '<noun> The number "nine hundred".'
-  },
-  {
-    "tibetan": "དགུ་བརྒྱ་ཐམ་པ་",
-    "english": '<noun> The number "nine hundred (exactly)".'
-  },
-  {
-    "tibetan": "དགུ་བཅུ་",
-    "english": '<noun> The number "ninety".  To indicate ninety exactly, དགུ་བཅུ་ཐམ་པ is used.'
-  },
-  {
-    "tibetan": "དགུ་བཅུ་གོ་དགུ་",
-    "english": '<noun> The number "ninety-nine".'
-  },
-  {
-    "tibetan": "དགུ་བཅུ་གོ་བརྒྱད་",
-    "english": '<noun> The number "ninety-eight".'
-  },
-  {
-    "tibetan": "དགུ་བཅུ་གོ་ལྔ་",
-    "english": '<noun> The number "ninety-five".'
-  },
-  {
-    "tibetan": "དགུ་བཅུ་གོ་གཅིག་",
-    "english": '<noun> The number "ninety-one".'
-  },
-  {
-    "tibetan": "དགུ་བཅུ་གོ་གཉིས་",
-    "english": '<noun> The number "ninety-two".'
-  },
-  {
-    "tibetan": "དགུ་བཅུ་གོ་དྲུག་",
-    "english": '<noun> The number "ninety-six".'
-  },
-  {
-    "tibetan": "དགུ་བཅུ་གོ་བདུན་",
-    "english": '<noun> The number "ninety-seven".'
-  },
-]
+  "ཀ་": "  I. <consonant letter> The first of the གསལ་བྱེད་སུམ་ཅུ thirty consonants of the Tibetan language.  1) The enunciation of the consonant is defined as having: སྐྱེ་གནས place of production = the throat; བྱེད་པ producer = the throat; ནང་གི་རྩོལ་བ inner effort = inner connection of the throat; and ཕྱིའི་རྩོལ་བ outer effort = unaspirated and un-sounded.  2) i) When used as a མིང་གཞི name-base, the consonant is defined as a ཕོ་ཡིག \"male letter\" q.v.    ii) Due to that definition, when a མིང་མཐའ name-ending (i.e., a single-letter ending which is added to another word and becomes part of it) is required, of the three possible choices ka, ཁ, and ག, the letter ka is the one that must be used where a male letter ending is required.  A good example is the word gnyis; the ending letter is male so gnyis ka is correct not gnyis kha or gnyis ga.  However, the old form of the word gnyi, since it has a female 'a ending on it (it is invisible but there by the rules of grammar), gets a female name ending and becomes gnyi ga not gnyis ka or gnyis kha.",
+  "ཀ་ཀ་": "<noun> 1) Corrupted form of ཀའ་ཀ q.v.  2) The ཨ་ཅུག of a sheep q.v.  3) [Dialect] The clothing of a young child.  4) Slang term for སྐྱག་པ faeces.",
+  "ཀ་ཀ་ཎི་ལ་": "Mis-spelling of ཀ་ཀ་ནའི་ལ q.v.",
+  "བསྐུལ་": "<verb> See བསྐུལ་བ q.v.",
+  "བསྐུལ་བ་ཕྲིན་ལས་ཀྱི་སྔགས་": "english: <noun>phrase> \"The evocation action mantra\" of a deity.  See སྔགས་བཞི \"the four mantras\".",
+  "བསྐུས་": "<verb> See བསྐུས་པ q.v.",
+  "བསྐོ་བ་": "<verb> Fut. of སྐོ་བ [TC].",
+  "བསྐོང་བ་": "<verb> Fut. of v.t. སྐོང་བ q.v.",
+  "བསྐོངས་པ་": "<verb> Past of v.t. form II སྐོང་བ q.v.",
+  "བསྐོན་པ་": "<verb> Past and fut. of སྐོན་པ q.v.",
+  "བསྐོར་": "<verb> See བསྐོར་བ q.v.",
+  "བསྐོར་བ་": "<verb> Past and fut. of སྐོར་བ q.v.",
+  "བསྐོལ་": "<verb> See བསྐོལ་བ q.v.",
+  "བསྐོས་": "<verb> See བསྐོས་པ q.v.",
+  "བསྐོས་པ་": "<verb> Past of སྐོ་བ q.v.",
+  "བསྐྱ་བ་": "<verb> Fut. of སྐྱ་བ q.v.",
+  "ཁ་སྦྱོར་ཡན་ལག་བདུན་དང་ལདན་པ་": "See the usual abbrev. ཁ་སྦྱོར་ཡན་ལག་བདུན་ལདན q.v.",
+  "དགུ་བརྒྱ་": "<noun> The number \"nine hundred\".",
+  "དགུ་བརྒྱ་ཐམ་པ་": "<noun> The number \"nine hundred (exactly)\".",
+  "དགུ་བཅུ་": "<noun> The number \"ninety\".  To indicate ninety exactly, དགུ་བཅུ་ཐམ་པ is used.",
+  "དགུ་བཅུ་གོ་དགུ་": "<noun> The number \"ninety-nine\".",
+  "དགུ་བཅུ་གོ་བརྒྱད་": "<noun> The number \"ninety-eight\".",
+  "དགུ་བཅུ་གོ་ལྔ་": "<noun> The number \"ninety-five\".",
+  "དགུ་བཅུ་གོ་གཅིག་": "<noun> The number \"ninety-one\".",
+  "དགུ་བཅུ་གོ་གཉིས་": "<noun> The number \"ninety-two\".",
+  "དགུ་བཅུ་གོ་དྲུག་": "<noun> The number \"ninety-six\".",
+  "དགུ་བཅུ་གོ་བདུན་": "<noun> The number \"ninety-seven\".",
+}

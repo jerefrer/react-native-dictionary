@@ -7,6 +7,9 @@
   },
   "dependencies": {
     "react": "^0.14.8",
-    "react-native": "^0.25.1"
+    "react-native": "^0.25.1",
+    "react-native-file-opener": "^0.2.0",
+    "react-native-sqlite-storage": "^2.1.5",
+    "realm": "^0.12.0"
   }
 }
